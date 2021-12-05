@@ -66,6 +66,6 @@ After a while since this happened, he reported that he is playing Genshin Impact
 
 "I play it because I like it"
 
-Assumed harem also tried to stop *imfuckedup* from mentioning about this.
+Assumed harem members also tried to stop *imfuckedup* from mentioning about this.
 
 This concludes why Genshin partially proves the Thành's harem criticism.
