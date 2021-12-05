@@ -1,4 +1,8 @@
 site_name: a13 Wiki
+markdown_extensions:
+    - toc:
+        permalink: true
+        
 theme:
   name: "material"
   palette: # 
