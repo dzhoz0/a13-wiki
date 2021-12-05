@@ -15,7 +15,7 @@ Thành now has a harem. This harem consits of the following individuals assumed 
 # Indications
 These will explain why the theory is partially accurate.
 ## Indication number 1
-On December 4th 2021, there is a recent of choosing music group, Thành was either chosen, or been chosen to a music group consiting of the above mentioned individuals which are assumed to be in the harem.
+On December 3rd 2021, there is a recent of choosing music group, Thành was either chosen, or been chosen to a music group consiting of the above mentioned individuals which are assumed to be in the harem.
 
 <img src="/Images/musicGroup-indicattion.png" alt="image proof">
 
