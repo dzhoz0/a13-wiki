@@ -23,15 +23,14 @@ This can be normal as well as they are what so called *best-friends*. But indivi
 
 <img src="/Images/ThanhHarem/HoangSChat.jpg">
 
-<pre>
+```
 Translation:
 Message #1: I tried to choose the same group with him
 Message #2: Because he is my friend
 Message #3: But [Extended the last character of the message]
 Message #4: They said they already have Thành so they don't need me.
 Message #5: So it turns out that they simps for Thành and Thành simps for them
-
-</pre>
+```
 **Conclusion**
 
 This indicates that Thành as his assumed harem members are simping for each other, resulting in a harem.
@@ -44,7 +43,7 @@ However, this is not the case. The reason that this can be an indicator is that 
 <img src="/Images/ThanhHarem/ThanhDescribingGenshin.png">
 
 People in chat, imfuckedup is Thành's friend, thanhred is individual Thành, chat conversation is in Discord.
-<pre>
+```
 Translation:
 Message #1 imfuckedup: I know that how is Genshin
 Message #2 imfuckedup: and I suggest you not to get in that thing
@@ -60,7 +59,7 @@ Message #11 thanhred: A lot of porn videos
 Message #12 thanhred: I clicked on a random video and see like that
 Message #12 imfuckedup: [Reply to Message #11] I agree
 Message #13 thanhred: And it is recording boobs bouncing.
-</pre>
+```
 
 After a while since this happened, he reported that he is playing Genshin Impact, talking about in-game stuff, etc. When *imfuckedup* mentioned about it, thanhred replied that
 
@@ -69,3 +68,17 @@ After a while since this happened, he reported that he is playing Genshin Impact
 Assumed harem members also tried to stop *imfuckedup* from mentioning about this.
 
 This concludes why Genshin partially proves the Thành's harem criticism.
+
+# Indication #3
+On December 5th 2021, an interview is made with a person who knows about Thành, the individual named ████ ████ gave the following response.
+
+<img src="/Images/ThanhHarem/InterviewDiscord.png">
+
+```
+Translation:
+Message #1: In the last year it is like: "Teacher! (Teacher named Trúc) your class has a kid like named Thành he is very cute and cute"
+Message #2: 'It' is my friend :))))
+Message #3: Like that :)))
+```
+
+This indicates that he can have a huge ammount of members in his harem, but yet this is not sure and partially correct from completely stranger.
