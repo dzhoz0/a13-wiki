@@ -18,7 +18,13 @@ theme:
   favicon: "/Images/favicon.png"
   features:
     - navigation.sections
+  title: On this pag
+  
 nav:
     - Home: 'index.md'
     - Criticisms:
       - "Thành's harem": "Criticisms/ThanhHaremCritic.md"
+repo_url: https://github.com/datuanho2k9/a13-wiki
+repo_name: wiki repo
+site_description: "Wiki about a13 class"
+site_author: "datuanho2k9 and more"
