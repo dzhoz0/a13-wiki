@@ -9,7 +9,9 @@ To use this wiki, you can use the navigation bar on the left to navigate to the 
 This wiki project is lead by imfuckedup - [Reddit](https://reddit.com/u/Hodat2k9)
 
 There is also a lot of other contributors:
+
 1. Coldcomplex1 - [Reddit](https://reddit.com/u/Coldcomplex1)
+
 2. Hoàng - [Discord]: HoàngTheDoge#8301
 
 
