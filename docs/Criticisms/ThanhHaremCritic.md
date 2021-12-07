@@ -96,7 +96,7 @@ This time, Văn Quyết sent `hi simp`, indicating that he assumes that Thành h
 
 Quyết is blocked because of Thành is angry about the `simp`, he knows that he is simping for the harem group and play Genshin because of it, he gets angry so Quyết is blocked from Thành.
 
-# Indication #5
+# Indication #4
 On December 6th 2021, a Discord server named `DaDog v2` has Thành currently moderator in there. Assumed harem member named Linh joined the server as a member, by default a member should go to a text channel named `#apply-for-mod` but this member named Linh didn't do instructions in `#apply-for-mod` but still get mod. After an investigation how, `imfuckedup` checked `Audit log`, a useful place for moderators. Seeing this:
 
 ![](/Images/ThanhHarem/BlockedChat/audit-log-mod.png)
@@ -119,7 +119,7 @@ However, these messages are defending for Thành, which means Linh and Thành si
 
 This concludes that these 2 assumed harem members tried to defend Thành a lot.
 
-## Indication #4
+## Indication #5
 On December 5th 2021, an interview is made with a person who knows about Thành, the individual named Minh Tâm gave the following response.
 
 ![](/Images/ThanhHarem/InterviewDiscord.png)
