@@ -74,6 +74,29 @@ Assumed harem members also tried to stop *imfuckedup* from mentioning about this
 This concludes why Genshin partially proves the Thành's harem criticism.
 
 ## Indication #3
+On December 6th 2021, a Discord server named `DaDog v2` has Thành currently moderator in there. Assumed harem member named Linh joined the server as a member, by default a member should go to a text channel named `#apply-for-mod` but this member named Linh didn't do instructions in `#apply-for-mod` but still get mod. After an investigation how, `imfuckedup` checked `Audit log`, a useful place for moderators. Seeing this:
+
+![](/Images/ThanhHarem/BlockedChat/audit-log-mod.png)
+
+This means that Thành has manually added `mod` role for Linh, which is assumed harem members. However, he said that he accidentally pressed random buttons as explained in this snippet of chat.
+
+![](/Images/ThanhHarem/BlockedChat/whyamiamod.png)
+
+This should be normal but, after finding out he randomly pressed the buttons and know Linh is a mod, he didn't remove the `mod` role for Linh if he finds it out as an accident, and already found the result of the accident.
+
+![](/Images/ThanhHarem/BlockedChat/audit-log-no-realization.png)
+
+As seen in the image, we can see that it already 5 minutes that since the message of *realization* that Linh is accidentally added as a mod. `imfuckedup` just went back to check messages in there and then removed the `mod` role for Linh.
+
+![](/Images/ThanhHarem/BlockedChat/near-to-get-roasted-mocking-mod.png)
+
+After removing the `mod` role for Linh about 2 minutes, Linh started to mock `imfuckedup` after removing *her* `mod` role. And want to start to try to roast `imfuckedup`. The thread after is a whole mess so it won't be discussed.
+
+However, these messages are defending for Thành, which means Linh and Thành simps for each other. Another assumed harem member named Nghi also talked in the thread roasting `imfuckedup`, without finding the main cause which means just defending for Thành.
+
+This concludes that these 2 assumed harem members tried to defend Thành a lot.
+
+## Indication #4
 On December 6th 2021, individual named Văn Quyết attempted to reach Thành talking about his Genshin experience. Văn Quyết sent the following image as a joke to Thành through Zalo platform.
 
 ![](/Images/ThanhHarem/BlockedChat/sentimage.jpg)
@@ -96,28 +119,7 @@ This time, Văn Quyết sent `hi simp`, indicating that he assumes that Thành h
 
 Quyết is blocked because of Thành is angry about the `simp`, he knows that he is simping for the harem group and play Genshin because of it, he gets angry so Quyết is blocked from Thành.
 
-## Indication #4
-On December 6th 2021, a Discord server named `DaDog v2` has Thành currently moderator in there. Assumed harem member named Linh joined the server as a member, by default a member should go to a text channel named `#apply-for-mod` but this member named Linh didn't do instructions in `#apply-for-mod` but still get mod. After an investigation how, `imfuckedup` checked `Audit log`, a useful place for moderators. Seeing this:
 
-![](/Images/ThanhHarem/BlockedChat/audit-log-mod.png)
-
-This means that Thành has manually added `mod` role for Linh, which is assumed harem members. However, he said that he accidentally pressed random buttons as explained in this snippet of chat.
-
-![](/Images/ThanhHarem/BlockedChat/whyamiamod.png)
-
-This should be normal but, after finding out he randomly pressed the buttons and know Linh is a mod, he didn't remove the `mod` role for Linh if he finds it out as an accident, and already found the result of the accident.
-
-![](/Images/ThanhHarem/BlockedChat/audit-log-no-realization.png)
-
-As seen in the image, we can see that it already 5 minutes that since the message of *realization* that Linh is accidentally added as a mod. `imfuckedup` just went back to check messages in there and then removed the `mod` role for Linh.
-
-![](/Images/ThanhHarem/BlockedChat/near-to-get-roasted-mocking-mod.png)
-
-After removing the `mod` role for Linh about 2 minutes, Linh started to mock `imfuckedup` after removing *her* `mod` role. And want to start to try to roast `imfuckedup`. The thread after is a whole mess so it won't be discussed.
-
-However, these messages are defending for Thành, which means Linh and Thành simps for each other. Another assumed harem member named Nghi also talked in the thread roasting `imfuckedup`, without finding the main cause which means just defending for Thành.
-
-This concludes that these 2 assumed harem members tried to defend Thành a lot.
 
 ## Indication #5
 On December 5th 2021, an interview is made with a person who knows about Thành, the individual named Minh Tâm gave the following response.
