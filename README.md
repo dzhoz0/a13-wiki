@@ -17,4 +17,4 @@ There is also a lot of other contributors:
 
 And a lot more.
 
-A lot of people has contributed to this wiki to be a better place, informational for everyone.
+Thanks a lot for people has contributed to this wiki to be a better place, informational for everyone.
