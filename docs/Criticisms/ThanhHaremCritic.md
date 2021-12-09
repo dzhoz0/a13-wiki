@@ -1,10 +1,8 @@
-<h3>Table of Contents</h3>
+<hr>
 
-[TOC]
-
-# Introduction
+## Introduction
 This is a criticsm of Thành for having a harem. This will explain what indicates that this individual has a harem.
-# What happened?
+## What happened?
 
 Thành now has a harem. This harem consits of the following individuals assumed to be in the harem:
 <details>
@@ -16,9 +14,10 @@ Thành now has a harem. This harem consits of the following individuals assumed 
 </pre>
 </details> 
 
-# Indications
+## Indications
 These will explain why the theory is partially accurate, the indications will be sort from the most accurate to the least accurate.
-## Indication #1
+### Indication #1
+<hr>
 On December 3rd 2021, there is a recent of choosing music group, Thành was either chosen, or been chosen to a music group consiting of the above mentioned individuals which are assumed to be in the harem.
 
 ![](/Images/ThanhHarem/musicGroup-indicattion.png)
@@ -39,7 +38,13 @@ Message #5: So it turns out that they simps for Thành and Thành simps for them
 
 This indicates that Thành as his assumed harem members are simping for each other, resulting in a harem.
 
-## Indication #2
+### Indication #2
+<hr>
+On December 7th, the time when it is near Christmas is coming near, which means people will start to do Christmas-related things. Thành and his assumed harem members decided to change the profile picture, something related Genshin and Chirstmas.
+
+
+### Indication #3
+<hr>
 During November and December 2021, Thành was convinced to play Genshin Impact by the assumed harem members.
 
 However, this is not the case. The reason that this can be an indicator is that Thành used to describe Genshin as sexualized characters in-game. In the following image, Thành described how Genshin is sexualized and agreed with another person on the same topic.
@@ -73,7 +78,8 @@ Assumed harem members also tried to stop *imfuckedup* from mentioning about this
 
 This concludes why Genshin partially proves the Thành's harem criticism.
 
-## Indication #3
+### Indication #4
+<hr>
 On December 6th 2021, a Discord server named `DaDog v2` has Thành currently moderator in there. Assumed harem member named Linh joined the server as a member, by default a member should go to a text channel named `#apply-for-mod` but this member named Linh didn't do instructions in `#apply-for-mod` but still get mod. After an investigation how, `imfuckedup` checked `Audit log`, a useful place for moderators. Seeing this:
 
 ![](/Images/ThanhHarem/BlockedChat/audit-log-mod.png)
@@ -96,7 +102,8 @@ However, these messages are defending for Thành, which means Linh and Thành si
 
 This concludes that these 2 assumed harem members tried to defend Thành a lot.
 
-## Indication #4
+### Indication #5
+<hr>
 On December 6th 2021, individual named Văn Quyết attempted to reach Thành talking about his Genshin experience. Văn Quyết sent the following image as a joke to Thành through Zalo platform.
 
 ![](/Images/ThanhHarem/BlockedChat/sentimage.jpg)
@@ -121,7 +128,9 @@ Quyết is blocked because of Thành is angry about the `simp`, he knows that he
 
 
 
-## Indication #5
+<s> 
+False Indication 
+
 On December 5th 2021, an interview is made with a person who knows about Thành, the individual named Minh Tâm gave the following response.
 
 ![](/Images/ThanhHarem/InterviewDiscord.png)
@@ -133,5 +142,7 @@ Message #2: 'It' is my friend :))))
 Message #3: Like that :)))
 ```
 
-This indicates that he can have a huge ammount of members in his harem, but yet this is not sure and partially correct from completely stranger.
+This indicates that he can have a huge ammount of members in his harem, but yet this is not sure and partially correct from completely stranger. 
+
+</s>
 

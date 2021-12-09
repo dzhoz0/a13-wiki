@@ -18,13 +18,17 @@ theme:
   favicon: "/Images/favicon.png"
   features:
     - navigation.sections
-  title: On this pag
-  
+plugins:
+  - search
+  - git-revision-date-localized
+  - git-authors
 nav:
     - Home: 'index.md'
+    - Contributing : 'contributing.md'
     - Criticisms:
       - "Thành's harem": "Criticisms/ThanhHaremCritic.md"
 repo_url: https://github.com/datuanho2k9/a13-wiki
 repo_name: wiki repo
 site_description: "Wiki about a13 class"
 site_author: "datuanho2k9 and more"
+edit_uri: ./edit/main/docs
