@@ -20,11 +20,11 @@ These will explain why the theory is partially accurate, the indications will be
 <hr>
 On December 3rd 2021, there is a recent of choosing music group, Thành was either chosen, or been chosen to a music group consiting of the above mentioned individuals which are assumed to be in the harem.
 
-![](/Images/ThanhHarem/musicGroup-indicattion.png)
+![](./Images/musicGroup-indicattion.png)
 
 This can be normal as well as they are what so called *best-friends*. But indiviual Hoàng tried to choose that music group, but the individuals in the group which are assumed to be in the harem denied the request. Hoàng explained in the following snippet of chat.
 
-![](/Images/ThanhHarem/HoangSChat.jpg)
+![](./Images/HoangSChat.jpg)
 
 ```
 Translation:
@@ -42,6 +42,28 @@ This indicates that Thành as his assumed harem members are simping for each oth
 <hr>
 On December 7th, the time when it is near Christmas is coming near, which means people will start to do Christmas-related things. Thành and his assumed harem members decided to change the profile picture, something related Genshin and Chirstmas.
 
+The changed profile pictures indicating that the group consisting of Thành, however Thành wouldn't have a proper reason to explain why he would change to a girl profile picture, he can give that he likes character in game, explained why he would play Genshin at [this indication](#indication-3), but [Indication #3](#indication-3) explained that he simping for the assu,ed harem member so he would play it. So it can give that Thành is simping for his assumed harem members.
+
+The following image describe the group changed their profile picture on Facebook platform.
+
+![](./Images/samepfpfacebook.jpg)
+
+The profile picture of the following people as followed left to right up to down:
+
+*Nguyễn Linh as Linh, MinhThu GiangHuynh (not in assumed harem since only friends with harem members), Bé Uyn (like MinhThu GiangHuynh), Phương Nghi as Nghi, Kadeahara Kazuha(like MinhThu GiangHuynh), Nong Vy as Vy, Đõ Kim Thành as Thành*
+
+Sources of these images are found, in a shared post from assumed harem member named Linh, describe in the following image.
+
+![](./Images/sharedpostpfp.jpg)
+
+Translation of shared post:
+```
+Group: Vietnam Genshin Impact
+Poster: Shi Neko
+Post text: I drew some kids for avatars for the upcoming Christmas #content
+```
+
+Thành accepted the offer, even though he is not even female to set this profile picture, only becaus he simps for harem and like in-game characters
 
 ### Indication #3
 <hr>
@@ -49,7 +71,7 @@ During November and December 2021, Thành was convinced to play Genshin Impact b
 
 However, this is not the case. The reason that this can be an indicator is that Thành used to describe Genshin as sexualized characters in-game. In the following image, Thành described how Genshin is sexualized and agreed with another person on the same topic.
 
-![](/Images/ThanhHarem/ThanhDescribingGenshin.png)
+![](./Images/ThanhDescribingGenshin.png)
 
 People in chat, imfuckedup is Thành's friend, thanhred is individual Thành, chat conversation is in Discord.
 ```
@@ -82,19 +104,19 @@ This concludes why Genshin partially proves the Thành's harem criticism.
 <hr>
 On December 6th 2021, a Discord server named `DaDog v2` has Thành currently moderator in there. Assumed harem member named Linh joined the server as a member, by default a member should go to a text channel named `#apply-for-mod` but this member named Linh didn't do instructions in `#apply-for-mod` but still get mod. After an investigation how, `imfuckedup` checked `Audit log`, a useful place for moderators. Seeing this:
 
-![](/Images/ThanhHarem/BlockedChat/audit-log-mod.png)
+![](./Images/BlockedChat/audit-log-mod.png)
 
 This means that Thành has manually added `mod` role for Linh, which is assumed harem members. However, he said that he accidentally pressed random buttons as explained in this snippet of chat.
 
-![](/Images/ThanhHarem/BlockedChat/whyamiamod.png)
+![](./Images/BlockedChat/whyamiamod.png)
 
 This should be normal but, after finding out he randomly pressed the buttons and know Linh is a mod, he didn't remove the `mod` role for Linh if he finds it out as an accident, and already found the result of the accident.
 
-![](/Images/ThanhHarem/BlockedChat/audit-log-no-realization.png)
+![](./Images/BlockedChat/audit-log-no-realization.png)
 
 As seen in the image, we can see that it already 5 minutes that since the message of *realization* that Linh is accidentally added as a mod. `imfuckedup` just went back to check messages in there and then removed the `mod` role for Linh.
 
-![](/Images/ThanhHarem/BlockedChat/near-to-get-roasted-mocking-mod.png)
+![](./Images/BlockedChat/near-to-get-roasted-mocking-mod.png)
 
 After removing the `mod` role for Linh about 2 minutes, Linh started to mock `imfuckedup` after removing *her* `mod` role. And want to start to try to roast `imfuckedup`. The thread after is a whole mess so it won't be discussed.
 
@@ -106,19 +128,19 @@ This concludes that these 2 assumed harem members tried to defend Thành a lot.
 <hr>
 On December 6th 2021, individual named Văn Quyết attempted to reach Thành talking about his Genshin experience. Văn Quyết sent the following image as a joke to Thành through Zalo platform.
 
-![](/Images/ThanhHarem/BlockedChat/sentimage.jpg)
+![](./Images/BlockedChat/sentimage.jpg)
 
 The text `Sex`: `YES PLEASE` is acted as joke wanting sex with an in-game character named `Yae Miko` as seen in the image.
 
-![](/Images/ThanhHarem/BlockedChat/sent-text-sex-joke.png)
+![](./Images/BlockedChat/sent-text-sex-joke.png)
 
 Thành replied as a reaction to this, in fact, he already thought that this is a joke, so there is nothing much suspicous to see here. Also, `heh` is acting like he knows nothing but in fact, he does.
 
-![](/Images/ThanhHarem/BlockedChat/average-genshin-impact-player.jpg)
+![](./Images/BlockedChat/average-genshin-impact-player.jpg)
 
 Văn Quyết sent a message containing `hi average Genshin player`, indicating that `Hello Genshin Impact player`, meaning that he is doing a little mocking towards Genshin Impact players. Again, Thành acted `heh`, indicating like he knows nothing but in fact he knows that Văn Quyết is mocking him.
 
-![](/Images/ThanhHarem/BlockedChat/blocked-lol.jpg)
+![](./Images/BlockedChat/blocked-lol.jpg)
 
 This time, Văn Quyết sent `hi simp`, indicating that he assumes that Thành has a harem after he read some information about this, meaning that Thành is simping for his harem group. Now after Thành seen but didn't reply to the message. Văn Quyết tried to message `.` in order to check if he blocked or not. And yes, Thành blocked Quyết. 
 
@@ -133,7 +155,7 @@ False Indication
 
 On December 5th 2021, an interview is made with a person who knows about Thành, the individual named Minh Tâm gave the following response.
 
-![](/Images/ThanhHarem/InterviewDiscord.png)
+![](./Images/InterviewDiscord.png)
 
 ```
 Translation:
@@ -145,4 +167,8 @@ Message #3: Like that :)))
 This indicates that he can have a huge ammount of members in his harem, but yet this is not sure and partially correct from completely stranger. 
 
 </s>
+
+
+## Small indications
+These will contain indications that it is too small to talk about, but it is better to list it out.
 
