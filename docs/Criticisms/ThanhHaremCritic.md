@@ -40,7 +40,7 @@ This indicates that Thành as his assumed harem members are simping for each oth
 
 ### Indication #2
 <hr>
-On December 7th, the time when it is near Christmas is coming near, which means people will start to do Christmas-related things. Thành and his assumed harem members decided to change the profile picture, something related Genshin and Chirstmas.
+On December 7th, the time when Christmas is coming near, which means people will start to do Christmas-related things. Thành and his assumed harem members decided to change the profile picture, something related Genshin and Chirstmas.
 
 The changed profile pictures indicating that the group consisting of Thành, however Thành wouldn't have a proper reason to explain why he would change to a girl profile picture, he can give that he likes character in game, explained why he would play Genshin at [this indication](#indication-3), but [Indication #3](#indication-3) explained that he simping for the assu,ed harem member so he would play it. So it can give that Thành is simping for his assumed harem members.
 
