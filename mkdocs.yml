@@ -26,7 +26,7 @@ nav:
     - Home: 'index.md'
     - Contributing : 'contributing.md'
     - Criticisms:
-      - "Thành's harem": "Criticisms/ThanhHaremCritic.md"
+      - "Thành's harem": "Criticisms/thanh-harem/index.md"
 repo_url: https://github.com/datuanho2k9/a13-wiki
 repo_name: wiki repo
 site_description: "Wiki about a13 class"

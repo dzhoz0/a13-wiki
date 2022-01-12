@@ -150,25 +150,7 @@ Quyết is blocked because of Thành is angry about the `simp`, he knows that he
 
 
 
-<s> 
-False Indication 
-
-On December 5th 2021, an interview is made with a person who knows about Thành, the individual named Minh Tâm gave the following response.
-
-![](./Images/InterviewDiscord.png)
-
-```
-Translation:
-Message #1: In the last year it is like: "Teacher! (Teacher named Trúc) your class has a kid like named Thành he is very cute and cute"
-Message #2: 'It' is my friend :))))
-Message #3: Like that :)))
-```
-
-This indicates that he can have a huge ammount of members in his harem, but yet this is not sure and partially correct from completely stranger. 
-
-</s>
-
-
 ## Small indications
 These will contain indications that it is too small to talk about, but it is better to list it out.
+
 
